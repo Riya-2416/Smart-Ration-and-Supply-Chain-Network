@@ -1,0 +1,51 @@
+Ration_Card_Number,Head_of_Family,Aadhaar_Number,Family_Members,Card_Type,Address,Village,Taluka,District,State,Pincode,Mobile_Number,Rice_Quota_KG,Wheat_Quota_KG,Sugar_Quota_KG,Kerosene_Quota_L,Registration_Date,Status
+RGD2024001,Ramesh Kumar Patil,234567890123,4,BPL,Plot No 12 Near Temple,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543210,20,15,2,3,2023-01-15,Active
+RGD2024002,Sunita Devi Sharma,345678901234,5,BPL,House No 45 Main Road,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543211,25,20,2.5,4,2023-01-18,Active
+RGD2024003,Prakash Vitthal Jadhav,456789012345,3,APL,Flat 3 Ganesh Nagar,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543212,15,10,1.5,2,2023-02-01,Active
+RGD2024004,Laxmi Bai Deshmukh,567890123456,6,AAY,Hut No 7 Ambedkar Colony,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543213,30,25,3,5,2023-02-10,Active
+RGD2024005,Suresh Pandurang Kulkarni,678901234567,4,BPL,House No 23 Station Road,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543214,20,15,2,3,2023-02-15,Active
+RGD2024006,Mangala Ashok Pawar,789012345678,5,BPL,Plot No 56 Near School,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543215,25,20,2.5,4,2023-03-01,Active
+RGD2024007,Ganesh Dattatray Shinde,890123456789,3,APL,House No 89 Market Area,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543216,15,10,1.5,2,2023-03-05,Active
+RGD2024008,Savita Mohan Kamble,901234567890,7,AAY,Hut No 12 Gandhi Nagar,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543217,35,30,3.5,6,2023-03-12,Active
+RGD2024009,Vijay Shankar Rane,012345678901,4,BPL,Plot No 34 Near Panchayat,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543218,20,15,2,3,2023-03-20,Active
+RGD2024010,Anita Rajesh Naik,123456789012,5,BPL,House No 67 Village Center,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543219,25,20,2.5,4,2023-04-01,Active
+RGD2024011,Balaji Tukaram More,234567890124,3,APL,Flat 5 Shivaji Nagar,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543220,15,10,1.5,2,2023-04-08,Active
+RGD2024012,Rekha Sunil Bhosale,345678901235,6,BPL,House No 78 Near Clinic,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543221,30,25,3,5,2023-04-15,Active
+RGD2024013,Santosh Baban Gaikwad,456789012346,4,BPL,Plot No 90 Main Street,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543222,20,15,2,3,2023-04-22,Active
+RGD2024014,Vandana Anil Sawant,567890123457,5,AAY,Hut No 15 Nehru Colony,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543223,25,20,2.5,4,2023-05-01,Active
+RGD2024015,Mahesh Govind Kale,678901234568,3,APL,House No 101 Bus Stand,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543224,15,10,1.5,2,2023-05-10,Active
+RGD2024016,Parvati Dinesh Mane,789012345679,6,BPL,Plot No 112 Near Well,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543225,30,25,3,5,2023-05-18,Active
+RGD2024017,Arun Vishnu Patil,890123456780,4,BPL,House No 125 Temple Road,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543226,20,15,2,3,2023-05-25,Active
+RGD2024018,Shobha Ramesh Jadhav,901234567891,5,BPL,Flat 7 Krishna Nagar,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543227,25,20,2.5,4,2023-06-01,Active
+RGD2024019,Dilip Narayan Desai,012345678902,3,APL,House No 134 Near Post Office,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543228,15,10,1.5,2,2023-06-08,Active
+RGD2024020,Meena Prakash Chavan,123456789013,7,AAY,Hut No 18 Indira Colony,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543229,35,30,3.5,6,2023-06-15,Active
+RGD2024021,Rajendra Laxman Bhoir,234567890125,4,BPL,Plot No 145 Near River,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543230,20,15,2,3,2023-06-22,Active
+RGD2024022,Kavita Suresh Salvi,345678901236,5,BPL,House No 156 Market Road,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543231,25,20,2.5,4,2023-07-01,Active
+RGD2024023,Ashok Baburao Parab,456789012347,3,APL,Flat 9 Ram Nagar,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543232,15,10,1.5,2,2023-07-10,Active
+RGD2024024,Sulochana Ganesh Kadam,567890123458,6,BPL,House No 167 Near Bridge,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543233,30,25,3,5,2023-07-18,Active
+RGD2024025,Mohan Dattatray Ghadi,678901234569,4,BPL,Plot No 178 Village Square,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543234,20,15,2,3,2023-07-25,Active
+RGD2024026,Asha Vijay Shirke,789012345680,5,AAY,Hut No 21 Rajiv Colony,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543235,25,20,2.5,4,2023-08-01,Active
+RGD2024027,Sanjay Pandurang Yadav,890123456781,3,APL,House No 189 Near Farm,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543236,15,10,1.5,2,2023-08-08,Active
+RGD2024028,Nirmala Arun Patkar,901234567892,6,BPL,Plot No 190 Main Chowk,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543237,30,25,3,5,2023-08-15,Active
+RGD2024029,Deepak Shankar Mhatre,012345678903,4,BPL,House No 201 Near Tank,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543238,20,15,2,3,2023-08-22,Active
+RGD2024030,Jyoti Mahesh Sawant,123456789014,5,BPL,Flat 11 Laxmi Nagar,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543239,25,20,2.5,4,2023-09-01,Active
+RGD2024031,Bhaskar Govind Shinde,234567890126,3,APL,House No 212 Near Garden,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543240,15,10,1.5,2,2023-09-10,Active
+RGD2024032,Sarita Dilip Naik,345678901237,7,AAY,Hut No 24 Saraswati Colony,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543241,35,30,3.5,6,2023-09-18,Active
+RGD2024033,Ramdas Vishnu Pawar,456789012348,4,BPL,Plot No 223 Near Mandir,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543242,20,15,2,3,2023-09-25,Active
+RGD2024034,Lalita Santosh Kamble,567890123459,5,BPL,House No 234 Station Area,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543243,25,20,2.5,4,2023-10-01,Active
+RGD2024035,Chandrakant Baban Rane,678901234570,3,APL,Flat 13 Hanuman Nagar,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543244,15,10,1.5,2,2023-10-08,Active
+RGD2024036,Pushpa Balaji Bhosale,789012345681,6,BPL,House No 245 Near Masjid,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543245,30,25,3,5,2023-10-15,Active
+RGD2024037,Kiran Rajesh Gaikwad,890123456782,4,BPL,Plot No 256 Village End,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543246,20,15,2,3,2023-10-22,Active
+RGD2024038,Usha Mohan Sawant,901234567893,5,AAY,Hut No 27 Patel Colony,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543247,25,20,2.5,4,2023-11-01,Active
+RGD2024039,Sunil Narayan Kale,012345678904,3,APL,House No 267 Near Church,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543248,15,10,1.5,2,2023-11-10,Active
+RGD2024040,Vaishali Anil Mane,123456789015,6,BPL,Plot No 278 Main Gate,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543249,30,25,3,5,2023-11-18,Active
+RGD2024041,Ramchandra Tukaram Patil,234567890127,4,BPL,House No 289 Near Dargah,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543250,20,15,2,3,2023-11-25,Active
+RGD2024042,Sunanda Prakash Jadhav,345678901238,5,BPL,Flat 15 Durga Nagar,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543251,25,20,2.5,4,2023-12-01,Active
+RGD2024043,Dattatray Laxman Deshmukh,456789012349,3,APL,House No 290 Near Gurudwara,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543252,15,10,1.5,2,2023-12-08,Active
+RGD2024044,Archana Suresh Kulkarni,567890123460,7,AAY,Hut No 30 Bhim Colony,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543253,35,30,3.5,6,2023-12-15,Active
+RGD2024045,Pandurang Govind Pawar,678901234571,4,BPL,Plot No 301 Near Anganwadi,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543254,20,15,2,3,2023-12-22,Active
+RGD2024046,Sushila Ashok Kamble,789012345682,5,BPL,House No 312 School Road,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543255,25,20,2.5,4,2024-01-01,Active
+RGD2024047,Vishwas Shankar Rane,890123456783,3,APL,Flat 17 Sai Nagar,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543256,15,10,1.5,2,2024-01-10,Active
+RGD2024048,Madhuri Vijay Naik,901234567894,6,BPL,House No 323 Near Dispensary,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543257,30,25,3,5,2024-01-18,Active
+RGD2024049,Babasaheb Dattatray Bhoir,012345678905,4,BPL,Plot No 334 Village Center,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543258,20,15,2,3,2024-01-25,Active
+RGD2024050,Annapurna Ramesh Salvi,123456789016,5,AAY,Hut No 33 Shahu Colony,Vashivali,Khalapur,Raigad,Maharashtra,410203,9876543259,25,20,2.5,4,2024-02-01,Active
